@@ -3,6 +3,7 @@
 - 🌱 I’m currently studying Maths, Physics and my favourite subject, Computer Science :-)
 
 - [ ] View my latest repo 'game_centre_final' for a great game centre in python with 10 GAMES!
+- [ ] I'm currently working on converting most of the text-based games to PyGame!
 
 <!---
 Ibi-M/Ibi-M is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
